@@ -1,0 +1,23 @@
+{
+  "name": "Hangman-Game",
+  "version": "1.0.0",
+  "description": "Advanced JavaScript Assignment: Constructor Hangman",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GonzaloEspinel/Hangman-Game.git"
+  },
+  "author": "Gonzalo Espinel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GonzaloEspinel/Hangman-Game.git/issues"
+  },
+  "homepage": "https://github.com/GonzaloEspinel/Hangman-Game#readme",
+  "dependencies": {
+    "inquirer": "^5.0.1",
+    "prompt": "^1.0.0"
+  }
+}
